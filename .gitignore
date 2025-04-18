@@ -1,2 +1,6 @@
 .env
+.gitignore
 pyvenv.cfg
+venv/
+Lib/
+Scripts/
